@@ -1,0 +1,5 @@
+app/models/post.rb 48c7ec99a4c725bcba79b4f4f64823d0611b91f2
+app/helpers/posts_helper.rb 74162853fa81bb19e84359e36d0a2e01dd3fec05
+app/helpers/application_helper.rb eef3d3adce96afe8b14c19b6135323f47543d979
+app/controllers/posts_controller.rb 7cbbc5a13e18cfc4cf8a49466e7a8585c59528ba
+app/controllers/application_controller.rb 2036468398e54b3fc8af23cb6f9e1716293320eb
